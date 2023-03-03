@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CyrusVatandoost
-- 👀 I'm the founder and head developer of @imaginewareph. We design, develop, and maintain websites
-- ⚙️ We use Laravel, Intertia.js, Vue, and Tailwind CSS
-- 📫 You can reach me through https://imagineware.ph/
-- 🏫 Currently learning Next.js 13 and React
+- You can check out my porflio here https://cyrusvatandoost.com
+- I've been building websites and webapps since 2018
+- Laravel, Inertia.js, Vue, and Tailwind is my stack of choice
+- Currently learning Next.js, React, and Firebase!
 
 <!---
 CyrusVatandoost/CyrusVatandoost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
